@@ -1,3 +1,3 @@
 # MTech_project
 
-This repository contains only the powerpoint and images which has been presented in earlier conference and competitions.
+This repository contains only the PDF and IMAGE files that have been presented in earlier conference and competitions.
